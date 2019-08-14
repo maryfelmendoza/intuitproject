@@ -1,22 +1,53 @@
-.nav-text {
-    display: flex;
-    justify-content: flex-end;
-}
 
-#firstpart button {
-    margin-top: 20px;
+.nav-btn button {
+    margin-top: 2px;
     margin-left: 20px;
+    margin-right: 50px;
     height: 30px;
     background-color: blue;
     color: white;
+    float: right;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 100px;
 }
 
-#firstpart p{
-    margin-block-end: 0;
+.nav-text {
+    display: flex;
+    justify-content: flex-end;
+
 }
 
-#firstpart a{
+.btn {
+    margin-top: 15px;
+    margin-left: 200px;
+    margin-right: 93px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    float: right;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 174px;
+    margin-bottom: 50px;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.nav-btn{
+    margin-top: 0px;
+}
+
+nav {
+    display: inline-flex;
+    float: right;
+}
+
+nav a{
     color: blue;
+    
 }
 
 
@@ -27,6 +58,21 @@ form {
     width: 362px;
     text-align: center;
     margin: 0 auto;
+    background-color: white;
+}
+
+form a {
+    color: blue;
+}
+
+.captcha p{
+    margin-bottom: 0px;
+    padding-top: 10px;
+}
+
+.captcha{
+    background: lightgray;
+    padding-bottom: 10px;
     border-radius: 2px;
     padding: 24px;
 }
