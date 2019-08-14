@@ -5,4 +5,9 @@
 
 form {
     border: 5px solid black;
+    width: 300px;
+}
+
+.captcha{
+    background: lightgray;
 }
