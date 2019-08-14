@@ -33,7 +33,7 @@
 }
 
 body{
-    background-color: lightgray;
+    background-color: #ECEEF1;
 }
 
 .nav-btn{
@@ -55,7 +55,8 @@ nav a{
 
 form {
     border: 1px solid lightgrey;
-    width: 362px;
+    width: 344px;
+    padding: 8px;
     text-align: center;
     margin: 0 auto;
     background-color: white;
@@ -93,7 +94,7 @@ form .entries {
 }
 
 .entries input {
-    width: 358px;
+    width: 324px;
     padding: 5px 0;
     margin-top: 8px;
     height: 24px;
