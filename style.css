@@ -13,7 +13,6 @@
 }
 
 .nav-text {
-    display: flex;
     justify-content: flex-end;
 
 }
@@ -131,6 +130,7 @@ form .captcha {
 
 footer{
     text-align: center;
+    margin-top: 80px;
 }
 
 footer p a{
