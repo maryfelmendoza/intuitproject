@@ -13,19 +13,36 @@
             <img src="">
             <img src="">
             <img src="">
-            <img src="">
+
         </div>
-        <form>
+        <form >
             <h3>Create an Intuit account</h3>
             <p>One account for everything Intuit, including Mint. <a href="https://accounts-help.lc.intuit.com/questions/1582580-creating-an-account" target="_blank">Learn More</a></p>
-            <div>
+            <fieldset>
                 <label for="email">Email Address</label>
-                <input type="email" id="mail" name="user_mail" checked>
+                <input type="email" id="mail" name="user_mail">
+            
                 <label for="phone">Phone (recommended)</label>
                 <input type="number" id="phonenumber" name="phonenumber">
+            
                 <label for="Password">Password</label>
                 <input type="password" id="password" name="password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}">
+            </fieldset>
+            <div>
+                <input class="btn" type="submit" name="submit" value="Create Account">
             </div>
         </form>
+
+        <div class="terms">
+            <p>By clicking Create Account, you agree to our <a href="">Terms</a> and have read and acknowledge our <a href="">Privacy Statement</a>.</p>
+        </div>
+
+        <div class="captcha">
+            <p>Invisible reCAPTCHA by Google <a href="">Privacy Policy</a> and <a href="">Terms of Use</a>.</p>
+        </div>
+
+        <footer>
+            <p></p>
+        </footer>
     </body>
 </html>
