@@ -32,7 +32,7 @@
 }
 
 body{
-    background-color: lightgray;
+    background-color: #ECEEF1;
 }
 
 .nav-btn{
@@ -54,10 +54,11 @@ nav a{
 
 form {
     border: 1px solid lightgrey;
-    width: 362px;
+    width: 342px;
     text-align: center;
     margin: 0 auto;
     background-color: white;
+    padding: 16px 8px 24px 24px;
 }
 
 form a {
@@ -65,8 +66,7 @@ form a {
 }
 
 .captcha p{
-    margin-bottom: 0px;
-    padding-top: 10px;
+    padding: 4px;
 }
 
 .captcha{
@@ -92,10 +92,11 @@ form .entries {
 }
 
 .entries input {
-    width: 358px;
+    width: 320px;
     padding: 5px 0;
     margin-top: 8px;
-    height: 24px;
+    height: 16px;
+    padding-left: 4px;
 }
 
 .entries div {
@@ -122,7 +123,7 @@ form .captcha {
     color: #9B9EA1;
     font-size: 10px;
     padding: 8px;
-    margin: 32px -24px -24px;
+    margin: 28px -8.25px -24.5px -24px;
     text-align: center;
 }
 
