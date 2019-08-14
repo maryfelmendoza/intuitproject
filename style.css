@@ -1,15 +1,14 @@
-.firstpart{
+.nav-text {
     display: flex;
     justify-content: right;
 }
 
 form {
     border: 1px solid black;
-    width: 488px;
+    width: 360px;
     text-align: center;
     margin: 0 auto;
 }
-
 
 .captcha{
     background: lightgray;
