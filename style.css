@@ -1,6 +1,26 @@
+<<<<<<< HEAD
 .nav-text {
+=======
+#firstpart{
+>>>>>>> 1d4f5e4696efabd91eaa0943b5060b7d9057b9ca
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
+}
+
+#firstpart button {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
+
+#firstpart p{
+    margin-block-end: 0;
+}
+
+#firstpart a{
+    color: blue;
 }
 
 form {
@@ -10,6 +30,27 @@ form {
     margin: 0 auto;
 }
 
+<<<<<<< HEAD
+=======
+form a{
+    color: blue;
+}
+
+>>>>>>> 1d4f5e4696efabd91eaa0943b5060b7d9057b9ca
 .captcha{
     background: lightgray;
 }
+
+footer{
+    text-align: center;
+}
+
+footer p a{
+    padding-right: 20px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
