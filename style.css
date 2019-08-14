@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+.nav-text {
+=======
 #firstpart{
+>>>>>>> 1d4f5e4696efabd91eaa0943b5060b7d9057b9ca
     display: flex;
     justify-content: flex-end;
 }
@@ -21,15 +25,18 @@
 
 form {
     border: 1px solid black;
-    width: 488px;
+    width: 360px;
     text-align: center;
     margin: 0 auto;
 }
 
+<<<<<<< HEAD
+=======
 form a{
     color: blue;
 }
 
+>>>>>>> 1d4f5e4696efabd91eaa0943b5060b7d9057b9ca
 .captcha{
     background: lightgray;
 }
