@@ -6,15 +6,10 @@
 form {
     border: 1px solid black;
     width: 488px;
-    /* text-align: center; */
+    text-align: center;
+    margin: 0 auto;
 }
 
-fieldset {
-    display: flex;
-    border: 0;
-    padding: 0;
-    margin: 0;
-}
 
 .captcha{
     background: lightgray;
