@@ -60,12 +60,8 @@ nav a{
 
 form {
     border: 1px solid lightgrey;
-<<<<<<< HEAD
     width: 344px;
     padding: 8px;
-=======
-    width: 342px;
->>>>>>> 8efe8c6dd49b9605b31b0d976c9c835ac0948487
     text-align: center;
     margin: 0 auto;
     background-color: white;
@@ -103,11 +99,7 @@ form .entries {
 }
 
 .entries input {
-<<<<<<< HEAD
     width: 324px;
-=======
-    width: 320px;
->>>>>>> 8efe8c6dd49b9605b31b0d976c9c835ac0948487
     padding: 5px 0;
     margin-top: 8px;
     height: 16px;
