@@ -56,13 +56,12 @@ nav a {
 /* Form */
 
 form {
-  width: 344px;
-  padding: 8px;
-  text-align: center;
-  margin: 0 auto;
-  background-color: white;
-  border: 1px solid lightgrey;
-  padding: 16px 8px 24px 24px;
+    width: 354px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid lightgrey;
+    padding: 16px 8px 24px 24px;
 }
 
 form a {
