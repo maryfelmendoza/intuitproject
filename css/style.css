@@ -36,11 +36,11 @@ header {
     width: 352px;
 }
 
-body{
+body {
     background-color: #ECEEF1;
 }
 
-.nav-btn{
+.nav-btn {
     margin-top: 0px;
 }
 
@@ -49,20 +49,19 @@ nav {
     float: right;
 }
 
-nav a{
+nav a {
     color: blue;
-    
 }
 
 /* Form */
 
 form {
-    border: 1px solid lightgrey;
     width: 344px;
     padding: 8px;
     text-align: center;
     margin: 0 auto;
     background-color: white;
+    border: 1px solid lightgrey;
     padding: 16px 8px 24px 24px;
 }
 
@@ -132,12 +131,12 @@ form .captcha {
     text-align: center;
 }
 
-footer{
+footer {
     text-align: center;
     margin-top: 80px;
 }
 
-footer p a{
+footer p a {
     padding-right: 20px;
     color: black;
 }
