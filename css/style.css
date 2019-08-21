@@ -1,78 +1,78 @@
 .nav-btn button {
-    margin-top: 2px;
-    margin-left: 20px;
-    margin-right: 50px;
-    height: 30px;
-    background-color: blue;
-    color: white;
-    float: right;
-    border: 1px solid black;
-    border-radius: 4px;
-    width: 100px;
+  margin-top: 2px;
+  margin-left: 20px;
+  margin-right: 50px;
+  height: 30px;
+  background-color: blue;
+  color: white;
+  float: right;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 100px;  
 }
 
 .nav-text {
-    justify-content: flex-end;
+  justify-content: flex-end;
 
 }
 
 .btn {
-    margin-top: 15px;
-    margin-left: 200px;
-    margin-right: 93px;
-    height: 30px;
-    background-color: blue;
-    color: white;
-    float: right;
-    border: 1px solid black;
-    border-radius: 4px;
-    width: 174px;
-    margin-bottom: 50px;
+  margin-top: 15px;
+  margin-left: 200px;
+  margin-right: 93px;
+  height: 30px;
+  background-color: blue;
+  color: white;
+  float: right;
+  border: 1px solid black;
+  border-radius: 4px;
+  width: 174px;
+  margin-bottom: 50px;
 }
 
 header {
-    margin: 0 auto;
-    padding-top: 64px;
-    width: 352px;
+  margin: 0 auto;
+  padding-top: 64px;
+  width: 352px;
 }
 
 .logos {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
-.logos p{
-    color: grey;
-    font-size: 15px;
+.logos p {
+  color: grey;
+  font-size: 15px;
 }
 
 .mint {
-    display: flex;
+  display: flex;
 }
 
 .quickbooks {
-    display: flex;
+  display: flex;
 }
 
 .turbotax {
-    display: flex;
+  display: flex;
 }
 
 body {
-    background-color: #ECEEF1;
+  background-color: #ECEEF1;
 }
 
 .nav-btn {
-    margin-top: 0px;
+  margin-top: 0px;
 }
 
 nav {
-    display: inline-flex;
-    float: right;
+  display: inline-flex;
+  float: right;
 }
 
 nav a {
-    color: blue;
+  color: blue;
 }
 
 /* Form */
@@ -87,33 +87,33 @@ form {
 }
 
 form a {
-    color: blue;
+  color: blue;
 }
 
 .captcha p{
-    padding: 4px;
+  padding: 4px;
 }
 
 .captcha{
-    background: lightgray;
-    padding-bottom: 10px;
-    border-radius: 2px;
-    padding: 24px;
+  background: lightgray;
+  padding-bottom: 10px;
+  border-radius: 2px;
+  padding: 24px;
 }
 
 form h2{
-    font-size: 24px;
+  font-size: 24px;
 }
 
 .info {
-    color: #5a5a5a;
-    margin-bottom: 24px;
-    font-size: 15px;
+  color: #5a5a5a;
+  margin-bottom: 24px;
+  font-size: 15px;
 }
 
 form .entries {
-    text-align: left;
-    font-size: 16px;
+  text-align: left;
+  font-size: 16px;
 }
 
 .entries input {
@@ -125,45 +125,45 @@ form .entries {
 }
 
 .entries div {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 } 
 
 .entries div p {
-    margin-top: 6px;
-    font-size: 12px;
+  margin-top: 6px;
+  font-size: 12px;
 }
 
 /* Bottom Form */
 
 .terms p {
-    color: #7E7E7E;
-    line-height: 1.8;
-    font-size: 15px;
-    margin-top: 32px;
-    font-style: italic;
+  color: #7E7E7E;
+  line-height: 1.8;
+  font-size: 15px;
+  margin-top: 32px;
+  font-style: italic;
 }
 
 form .captcha {
-    background: #ECEEF1;
-    color: #9B9EA1;
-    font-size: 10px;
-    padding: 8px;
-    margin: 28px -8.25px -24px -24px;
-    text-align: center;
+  background: #ECEEF1;
+  color: #9B9EA1;
+  font-size: 10px;
+  padding: 8px;
+  margin: 28px -8.25px -24px -24px;
+  text-align: center;
 }
 
 footer {
-    text-align: center;
-    margin-top: 80px;
+  text-align: center;
+  margin-top: 80px;
 }
 
 footer p a {
-    padding-right: 20px;
-    color: black;
+  padding-right: 20px;
+  color: black;
 }
 
 a {
-    text-decoration: none;
-    font-size: 12px
+  text-decoration: none;
+  font-size: 12px
 }
 
