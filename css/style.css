@@ -36,6 +36,28 @@ header {
     width: 352px;
 }
 
+.logos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logos p{
+    color: grey;
+    font-size: 15px;
+}
+
+.mint {
+    display: flex;
+}
+
+.quickbooks {
+    display: flex;
+}
+
+.turbotax {
+    display: flex;
+}
+
 body {
     background-color: #ECEEF1;
 }
