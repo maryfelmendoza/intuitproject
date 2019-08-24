@@ -1,4 +1,3 @@
-
 .nav-btn button {
     margin-top: 2px;
     margin-left: 20px;
@@ -37,11 +36,11 @@ header {
     width: 352px;
 }
 
-body{
+body {
     background-color: #ECEEF1;
 }
 
-.nav-btn{
+.nav-btn {
     margin-top: 0px;
 }
 
@@ -50,21 +49,19 @@ nav {
     float: right;
 }
 
-nav a{
+nav a {
     color: blue;
-    
 }
-
 
 /* Form */
 
 form {
-    border: 1px solid lightgrey;
-    width: 342px;
-    text-align: center;
-    margin: 0 auto;
-    background-color: white;
-    padding: 16px 8px 24px 24px;
+  width: 354px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: white;
+  border: 1px solid lightgrey;
+  padding: 16px 8px 24px 24px;
 }
 
 form a {
@@ -98,11 +95,11 @@ form .entries {
 }
 
 .entries input {
-    width: 320px;
-    padding: 5px 0;
-    margin-top: 8px;
-    height: 16px;
-    padding-left: 4px;
+  width: 324px;
+  padding: 5px 0;
+  margin-top: 8px;
+  height: 16px;
+  padding-left: 4px;
 }
 
 .entries div {
@@ -133,14 +130,12 @@ form .captcha {
     text-align: center;
 }
 
-
-
-footer{
+footer {
     text-align: center;
     margin-top: 80px;
 }
 
-footer p a{
+footer p a {
     padding-right: 20px;
     color: black;
 }
